@@ -21,7 +21,7 @@
 
 Este repositorio presenta muestras de material que reflejan mi enfoque en pruebas, reportes y estrategia de aseguramiento de calidad (QA).  
 
-🔒 *Todo el contenido es ficticio.*
+🔒 *Todo el contenido es de práctica.*
 
 ### 👤 Sobre Mí
 
